@@ -5,4 +5,4 @@ Proyecto final para bootcamp de Latinas Code camp, podemos acceder a la platafor
 
 Al ingresar tendremos la opción de ir a los ajustes para cambio de PIN, entre otras secciones tenemos Saldo y Depósitos, acciones y compra de acciones.
 
-El slide de la barra del menu fue inspirado en unos de los proyectos de las chicas.
+El slide de la barra del menu fue inspirado en unos de los proyectos de las chicas(Nay Campos)
